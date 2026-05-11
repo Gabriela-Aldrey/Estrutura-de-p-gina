@@ -39,7 +39,7 @@
 🚀 **Projetos Destaque**
 <div align="center">
 
-[![Site de Provisão de ROI](https://provisaodemercado.streamlit.app/)]
+[![Site de Provisão de ROI](https://provisaodemercado.streamlit.app)]
 
 [![Data Science: Análise de previsão de casas em aprendizado Supervisionado com comentário didáticos](https://github.com/Gabriela-Aldrey/MVP_An-lise-de-Dados-/blob/main/mvp_an_lise_de_casas.ipynb)]
 
